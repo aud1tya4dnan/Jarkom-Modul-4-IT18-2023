@@ -6,7 +6,7 @@
 
 Langkah awal yang kami ambil adalah menentukan subnet dalam topologi. Karena menggunakan metode VLSM, kami mengidentifikasi setiap host yang terhubung ke antarmuka router dan menghitung jumlah IP yang diperlukan. Berikut adalah gambaran dari pembagian subnet.
 
-![Untitled](Praktikum%204%20df348d0ea49a4299a380f648962fef11/Untitled.png)
+![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul-4-IT18-2023/assets/107627453/faf58631-8fcb-44cc-aca6-4c233ed4ce5e)
 
 Setelah menentukan pembagian subnet, kami juga telah melakukan perhitungan untuk alokasi IP. Berikut adalah hasil perhitungan tersebut
 
@@ -90,7 +90,8 @@ Lalu kita membagi IP seperti berikut
 
 Setelah semuanya sudah selesai tinggal melakukan konfigurasi pada GNS 
 
-![Untitled](Praktikum%204%20df348d0ea49a4299a380f648962fef11/Untitled%201.png)
+<img width="590" alt="Untitled 1" src="https://github.com/aud1tya4dnan/Jarkom-Modul-4-IT18-2023/assets/107627453/fe2e3431-7881-4364-bf25-14d089c58ec0">
+
 
 ### Hasil Konfigurasi
 
