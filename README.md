@@ -1,5 +1,18 @@
 # Jarkom-Modul-4-IT18-2023
+### Anggota: 
+Nama | NRP 
+--- | --- 
+Auditya Maulana Adnan | 5027211068 
+Keisya Nabila Zahra | 5027211058
 
+# Spreadsheet
+[Link](https://docs.google.com/spreadsheets/d/1840xPhZ97Jhr8nDVzDtv9o2KJJxLNswALI0H4OSGKBY/edit?usp=sharing)
+
+## Daftar Isi 
+- [Topologi](#topologi)
+- [Rute Subnet](#rute-subnet)
+- [VLSM](##VLSM-Dengan-GNS)
+- [CIDR](#CIDR-dengan-CPT)
 # Praktikum 4
 
 ## VLSM Dengan GNS
@@ -586,7 +599,7 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.242.24.145
 ```bash
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.242.24.145
 ```
-# CIDR
+# CIDR dengan CPT
 
 ## Step pertama adalah penggabungan subnet dari subnet A
 
